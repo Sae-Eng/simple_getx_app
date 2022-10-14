@@ -1,16 +1,24 @@
-# simple_getx_app
+![紫 アプリ 電話 モックアップ セールス マーケティング プレゼンテーション](https://user-images.githubusercontent.com/61930267/195911986-7537292d-8cba-4074-9e8e-78fa2ce32deb.png)
 
-A new Flutter project.
+## 概要
+- GetX + Dio + Setting UIを用いた、スーパーシンプルリポジトリです。
 
-## Getting Started
+## 画面
+- ホーム　　
+- 設定 
+- ナビゲーションバー
 
-This project is a starting point for a Flutter application.
+## 機能
+- 画面遷移
+- API通信
 
-A few resources to get you started if this is your first Flutter project:
+## ディレクトリ構成
+lib  
+∟ data : API通信  
+∟ page : 各画面  
+∟ routes : ルート  
+∟ themes : テーマ  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 備考
+- 参考にしたチュートリアル  
+https://www.youtube.com/watch?v=TbSSNd2ZevU
