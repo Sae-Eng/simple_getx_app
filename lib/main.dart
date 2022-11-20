@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       title: "Simple GetX App",
-      initialRoute: AppRoutes.NAVIGATION,
+      initialRoute: AppRoutes.LOGIN,
       getPages: AppPages.list,
       debugShowCheckedModeBanner: false,
       darkTheme: AppThemes.dark,
