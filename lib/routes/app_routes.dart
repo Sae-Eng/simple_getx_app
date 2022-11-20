@@ -1,3 +1,4 @@
 class AppRoutes {
-  static const String NAVIGATION = '/';
+  static const String LOGIN = '/';
+  static const String NAVIGATION = '/navigation';
 }
